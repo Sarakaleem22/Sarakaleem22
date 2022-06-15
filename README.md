@@ -1,6 +1,5 @@
 ### Hi there 👋
 
---> 
 # 💫About Me :
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning more about Data Warehousing
